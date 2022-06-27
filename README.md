@@ -6,4 +6,4 @@ Neste projeto, recriei parte da fase Bomb Man do Mega Man 1, contando com o boss
 
 Jogo criado para um projeto de faculdade, mas decidi postar pela qualidade.
 
-Foi uzilizado Programção Orientada a Objetos
+-- Programação Orientada a Objetos --
