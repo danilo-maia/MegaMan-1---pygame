@@ -937,7 +937,7 @@ class Boss():
                 self.index_vida += 1
                 self.invencible = True
                 self.vida_image = self.vida_images[self.index_vida]
-                if self.index_vida == 3:
+                if self.index_vida == 10:
                     self.alive = False
                     self.rect.y = 200
                     self.vel_y = 0
