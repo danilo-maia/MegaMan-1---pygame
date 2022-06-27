@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Ongc4EVqRjo&list=PLjcN1EyupaQnHM1I9SmiXfbT6aG4ez
 '''
 
 '''
-Caso queira diminuir a dificuldade do boss, na linha 911 isso é possivel,
+Caso queira diminuir a dificuldade do boss, na linha 940 isso é possivel,
 alterando o valor para 1, fazendo-o morrer com 1 hit (colocar um numero > 10 resultará em um bug).
 Mas recomendamos a experiência completa, apesar de muito dificil
 '''
