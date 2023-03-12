@@ -1,9 +1,9 @@
 # Mega Man - Pygame
 
-Jogo criado utilizando a bibliotema 'pygame'
+Game created using the 'pygame' library.
 
-Neste projeto, recriei parte da fase Bomb Man do Mega Man 1, contando com o boss (adaptado)
+In this project, I recreated part of the Bomb Man stage from Mega Man 1, including the boss (adapted).
 
-Jogo criado para um projeto de faculdade, mas decidi postar pela qualidade.
+The game was created for a college project, but I decided to post it due to its quality.
 
--- Programação Orientada a Objetos --
+-- Object Oriented Programming --
